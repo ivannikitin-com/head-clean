@@ -1,7 +1,7 @@
 ﻿<?php
 /*
 Plugin Name: Remove trash from head
-Plugin URI:  https://developer.wordpress.org/plugins/the-basics/
+Plugin URI:  https://github.com/ivannikitin-com/head-clean
 Description: Функция удаляет всякую хрень из служебной области <head></head>
 Version:     20170412
 Author:      Evgeny
